@@ -1,4 +1,4 @@
-# sql-dataquest
-SQL repository for Data Quest projects
+# 8-Week SQL Challenge
+Repository for the 8-Week SQL Challenge by Danny Ma. https://8weeksqlchallenge.com/case-study-1/
 
-Upcoming project for DataQuest, focusing on table mergers and windows.
+This SQL challenge uses multiple SQL methods, including Joins, CTEs, and Window Functions. I will add more details on each of the 8 projects as I complete them.
